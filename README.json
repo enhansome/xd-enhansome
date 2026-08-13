@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Data Populator by Precious - Design with real data! More information",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-16T10:14:39Z",
+            "owner": "dataliterate",
+            "repo": "data-populator",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XD to Flutter by Adobe - Generate assets from XD for use in an existing Flutter project.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-01T16:23:35Z",
+            "owner": "AdobeXD",
+            "repo": "xd-to-flutter-plugin",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artboard Plus by Rodrigo Soares",
+          "description": "Artboard tools to speed up your Adobe XD workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-13T22:48:04Z",
+            "owner": "rodi01",
+            "repo": "Artboard-Plus-XD",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maps generator by Boopesh Mahendran",
+          "description": "A map generator plugin for Adobe XD using google maps API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-02T23:56:02Z",
+            "owner": "boopeshmahendran",
+            "repo": "AdobeXD-maps",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copy SVG Code by Charlie Hield",
+          "description": "Plugin to generate SVG code from selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T06:34:18Z",
+            "owner": "stursby",
+            "repo": "xd-copy-svg-code-plugin",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inker8 by Zack Young",
+          "description": "Export artboards to a spec file for developers to measure design, copy css/text and export icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-12T10:47:29Z",
+            "owner": "inker8",
+            "repo": "xd-plugin",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rename It by Rodrigo Soares",
+          "description": "Batch renames layers and artboards. More information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T23:29:49Z",
+            "owner": "rodi01",
+            "repo": "RenameIt-XD",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uiLogos by vijay verma",
+          "description": "Insert professionally designed dummy logos of companies and 190+ country flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-13T06:02:34Z",
+            "owner": "realvjy",
+            "repo": "uilogos-XD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lorem Ipsum by Pablo Klaschka",
+          "description": "A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… More information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:12:54Z",
+            "owner": "pklaschka",
+            "repo": "lorem-ipsum-plugin",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Document Chat by Pablo Klaschka",
+          "description": "Chat plugin that uses the root node's to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: More information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:52:17Z",
+            "owner": "pklaschka",
+            "repo": "chat-xd-plugin",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ready Components by Rohit Methwani",
+          "description": "A plugin for generating generally used components for Mobile UI with command clicks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-05T16:08:11Z",
+            "owner": "rohit-rmethwani",
+            "repo": "ready-components",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color Desginer by Wojciech Banaś",
+          "description": "Build a color palette, generate shades and tints directly in Adobe XD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-04T05:09:25Z",
+            "owner": "WojciechBanas",
+            "repo": "colordesigner-adobe-xd",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunda Image by Satria Aji Putra",
+          "description": "Quick fill image to a shape from direct image url",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T07:08:47Z",
+            "owner": "satriaajiputra",
+            "repo": "tunda-image",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Export only one size by Nikola Pilipović",
+          "description": "Export at the scale you need and ONLY at the scale you need.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-15T11:09:22Z",
+            "owner": "nikoladev",
+            "repo": "xd-export",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Favicon Export by Ash Ryan Arnwine",
+          "description": "Export icons for your website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-09T15:01:57Z",
+            "owner": "ashryanbeats",
+            "repo": "favicon-export-for-xd",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Awesome Open Source Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xd-plugin-boilerplate",
+          "description": "A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-08T04:58:21Z",
+            "owner": "pklaschka",
+            "repo": "xd-plugin-boilerplate",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-xd-plugin",
+          "description": "Yeoman generator for creating Adobe XD Plugin projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T02:39:37Z",
+            "owner": "AdobeXD",
+            "repo": "generator-xd-plugin",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xd-plugin-boilerplate-react",
+          "description": "A fork of xd-plugin-boilerplate which includes React Library, Including Babel and necessary lint rules to create plugins with User Interface easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-05T19:51:50Z",
+            "owner": "Ashwinvalento",
+            "repo": "xd-plugin-boilerplate-react",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Events"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:44.350Z",
+    "original_repository": "AdobeXD/xd-awesome",
+    "original_repository_sha": "170e9da1cedd8cb2c31d52ce2c3f1b23624f948a",
+    "enhanced_repository": "enhansome/xd-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome xd awesome with stars"
+  }
+}
