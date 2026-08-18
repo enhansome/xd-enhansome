@@ -28,7 +28,7 @@
             "last_commit": "2022-02-01T16:23:35Z",
             "owner": "AdobeXD",
             "repo": "xd-to-flutter-plugin",
-            "stars": 946
+            "stars": 945
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:56:47.563Z",
+    "last_updated": "2026-08-18T02:53:17.505Z",
     "original_repository": "AdobeXD/xd-awesome",
     "original_repository_sha": "170e9da1cedd8cb2c31d52ce2c3f1b23624f948a",
     "enhanced_repository": "enhansome/xd-enhansome",
