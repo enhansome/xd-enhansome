@@ -18,7 +18,7 @@
 * **[Rename It](https://github.com/rodi01/RenameIt-XD) ⭐ 21 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-22** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
 * **[uiLogos](https://github.com/realvjy/uilogos-XD) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-13** by [vijay verma](https://github.com/realvjy) - Insert professionally designed dummy logos of companies and 190+ country flags.
 * **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin) ⭐ 9 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-14** by [Pablo Klaschka](https://github.com/pklaschka) - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
-* **[Document Chat](https://github.com/pklaschka/chat-xd-plugin) ⭐ 9 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
+* **[Document Chat](https://github.com/pklaschka/chat-xd-plugin) ⭐ 9 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-18** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
 * **[Ready Components](https://github.com/rohit-rmethwani/ready-components) ⭐ 6 | 🐛 0 | 📅 2020-06-05** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
 * **[Color Desginer](https://github.com/cyanpix/colordesigner-adobe-xd) ⭐ 6 | 🐛 11 | 🌐 Vue | 📅 2023-03-04** by [Wojciech Banaś](https://github.com/cyanpix) - Build a color palette, generate shades and tints directly in Adobe XD.
 * **[Tunda Image](https://github.com/satriaajiputra/tunda-image) ⭐ 5 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-07** by [Satria Aji Putra](https://github.com/satriaajiputra) - Quick fill image to a shape from direct image url
@@ -87,4 +87,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
