@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Data Populator by Precious - Design with real data! More information",
-          "description": null,
+          "title": "Data Populator",
+          "description": "by Precious - Design with real data! More information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "XD to Flutter by Adobe - Generate assets from XD for use in an existing Flutter project.",
-          "description": null,
+          "title": "XD to Flutter",
+          "description": "by Adobe - Generate assets from XD for use in an existing Flutter project.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "Artboard Plus by Rodrigo Soares",
-          "description": "Artboard tools to speed up your Adobe XD workflow.",
+          "title": "Artboard Plus",
+          "description": "by Rodrigo Soares - Artboard tools to speed up your Adobe XD workflow.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "Maps generator by Boopesh Mahendran",
-          "description": "A map generator plugin for Adobe XD using google maps API.",
+          "title": "Maps generator",
+          "description": "by Boopesh Mahendran - A map generator plugin for Adobe XD using google maps API.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "Copy SVG Code by Charlie Hield",
-          "description": "Plugin to generate SVG code from selection.",
+          "title": "Copy SVG Code",
+          "description": "by Charlie Hield - Plugin to generate SVG code from selection.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "Inker8 by Zack Young",
-          "description": "Export artboards to a spec file for developers to measure design, copy css/text and export icons.",
+          "title": "Inker8",
+          "description": "by Zack Young - Export artboards to a spec file for developers to measure design, copy css/text and export icons.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "Rename It by Rodrigo Soares",
-          "description": "Batch renames layers and artboards. More information",
+          "title": "Rename It",
+          "description": "by Rodrigo Soares - Batch renames layers and artboards. More information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "uiLogos by vijay verma",
-          "description": "Insert professionally designed dummy logos of companies and 190+ country flags.",
+          "title": "uiLogos",
+          "description": "by vijay verma - Insert professionally designed dummy logos of companies and 190+ country flags.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "Lorem Ipsum by Pablo Klaschka",
-          "description": "A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… More information",
+          "title": "Lorem Ipsum",
+          "description": "by Pablo Klaschka - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… More information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "Document Chat by Pablo Klaschka",
-          "description": "Chat plugin that uses the root node's to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: More information",
+          "title": "Document Chat",
+          "description": "by Pablo Klaschka - Chat plugin that uses the root node's to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: More information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "Ready Components by Rohit Methwani",
-          "description": "A plugin for generating generally used components for Mobile UI with command clicks.",
+          "title": "Ready Components",
+          "description": "by Rohit Methwani - A plugin for generating generally used components for Mobile UI with command clicks.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "Color Desginer by Wojciech Banaś",
-          "description": "Build a color palette, generate shades and tints directly in Adobe XD.",
+          "title": "Color Desginer",
+          "description": "by Wojciech Banaś - Build a color palette, generate shades and tints directly in Adobe XD.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "Tunda Image by Satria Aji Putra",
-          "description": "Quick fill image to a shape from direct image url",
+          "title": "Tunda Image",
+          "description": "by Satria Aji Putra - Quick fill image to a shape from direct image url",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "Export only one size by Nikola Pilipović",
-          "description": "Export at the scale you need and ONLY at the scale you need.",
+          "title": "Export only one size",
+          "description": "by Nikola Pilipović - Export at the scale you need and ONLY at the scale you need.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "Favicon Export by Ash Ryan Arnwine",
-          "description": "Export icons for your website.",
+          "title": "Favicon Export",
+          "description": "by Ash Ryan Arnwine - Export icons for your website.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,10 +281,52 @@
         }
       ],
       "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adobe Xd E-tools",
+          "description": "by Rafael Prado - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 407350930,
+            "language": "JavaScript",
+            "last_commit": "2024-12-08T14:48:51Z",
+            "owner": "rpradosilva",
+            "repo": "adobexd-etools",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Miscellaneous/Others"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-xd",
+          "description": "Render React components to Adobe XD. Build design systems and libraries from your code. This bundles your React app or UI library into a plugin with xdpm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201134954,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T06:48:55Z",
+            "owner": "macintoshhelper",
+            "repo": "react-xd",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Framework Support"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:00:29.662Z",
+    "last_updated": "2026-08-24T14:30:05.105Z",
     "original_repository": "AdobeXD/xd-awesome",
     "original_repository_id": 144183003,
     "original_repository_sha": "170e9da1cedd8cb2c31d52ce2c3f1b23624f948a",
