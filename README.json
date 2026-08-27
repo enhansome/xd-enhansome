@@ -132,7 +132,7 @@
             "archived": false,
             "id": 231264609,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:50:19Z",
+            "last_commit": "2026-08-26T21:02:58Z",
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
             "stars": 9
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 273177287,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:34:10Z",
+            "last_commit": "2026-08-26T21:00:33Z",
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
             "stars": 9
@@ -326,9 +326,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:01:52.501Z",
-    "original_repository": "AdobeXD/xd-awesome",
-    "original_repository_id": 144183003,
+    "last_updated": "2026-08-27T12:15:52.979Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 144183003,
+      "language": null,
+      "last_commit": "2022-02-19T20:44:19Z",
+      "owner": "AdobeXD",
+      "repo": "xd-awesome",
+      "stars": 270
+    },
     "original_repository_sha": "170e9da1cedd8cb2c31d52ce2c3f1b23624f948a",
     "enhanced_repository": "enhansome/xd-enhansome",
     "enhanced_repository_description": null,
