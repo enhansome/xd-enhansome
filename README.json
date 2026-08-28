@@ -16,7 +16,8 @@
             "owner": "dataliterate",
             "repo": "data-populator",
             "stars": 1655
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "AdobeXD",
             "repo": "xd-to-flutter-plugin",
             "stars": 945
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "rodi01",
             "repo": "Artboard-Plus-XD",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "boopeshmahendran",
             "repo": "AdobeXD-maps",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "stursby",
             "repo": "xd-copy-svg-code-plugin",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "inker8",
             "repo": "xd-plugin",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "rodi01",
             "repo": "RenameIt-XD",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "realvjy",
             "repo": "uilogos-XD",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "rohit-rmethwani",
             "repo": "ready-components",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "WojciechBanas",
             "repo": "colordesigner-adobe-xd",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "satriaajiputra",
             "repo": "tunda-image",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "nikoladev",
             "repo": "xd-export",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ashryanbeats",
             "repo": "favicon-export-for-xd",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         }
       ],
       "title": "Awesome Open Source Plugins"
@@ -247,7 +262,8 @@
             "owner": "pklaschka",
             "repo": "xd-plugin-boilerplate",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "AdobeXD",
             "repo": "generator-xd-plugin",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "Ashwinvalento",
             "repo": "xd-plugin-boilerplate-react",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         }
       ],
       "title": "Templates"
@@ -298,7 +316,8 @@
             "owner": "rpradosilva",
             "repo": "adobexd-etools",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         }
       ],
       "title": "Miscellaneous/Others"
@@ -319,14 +338,15 @@
             "owner": "macintoshhelper",
             "repo": "react-xd",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
         }
       ],
       "title": "Framework Support"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:19:40.619Z",
+    "last_updated": "2026-08-28T13:45:37.329Z",
     "original_repository_info": {
       "archived": false,
       "id": 144183003,
