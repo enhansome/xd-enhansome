@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.",
+            "homepage": null,
             "id": 35018076,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-16T10:14:39Z",
+            "open_issues": 24,
             "owner": "dataliterate",
             "repo": "data-populator",
-            "stars": 1655
+            "stars": 1655,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "data",
+              "data-populator",
+              "design",
+              "design-tool",
+              "design-tools",
+              "meaningful-data",
+              "sketch",
+              "sketchapp"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -26,12 +42,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate assets from XD for use in an existing Flutter project",
+            "homepage": null,
             "id": 263188625,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-02-01T16:23:35Z",
+            "open_issues": 43,
             "owner": "AdobeXD",
             "repo": "xd-to-flutter-plugin",
-            "stars": 945
+            "stars": 945,
+            "topics": [
+              "adobe-xd",
+              "dart",
+              "flutter",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -42,12 +68,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Artboard tools to speed up your Adobe XD workflow. Rearrange artboards into grid, sort them by name or create an artboard around selection.",
+            "homepage": null,
             "id": 153980263,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-13T22:48:04Z",
+            "open_issues": 22,
             "owner": "rodi01",
             "repo": "Artboard-Plus-XD",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -58,12 +93,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗺A map generator plugin for Adobe XD using google maps API",
+            "homepage": "https://boopeshmahendran.github.io/AdobeXD-maps/",
             "id": 174158372,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-02T23:56:02Z",
+            "open_issues": 10,
             "owner": "boopeshmahendran",
             "repo": "AdobeXD-maps",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -74,12 +118,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adobe XD Plugin to generate SVG code from selection.",
+            "homepage": null,
             "id": 154854228,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-07T06:34:18Z",
+            "open_issues": 15,
             "owner": "stursby",
             "repo": "xd-copy-svg-code-plugin",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "plugin",
+              "svg",
+              "xd"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -90,12 +143,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inker8 plugin for Adobe XD",
+            "homepage": null,
             "id": 154115346,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-12T10:47:29Z",
+            "open_issues": 4,
             "owner": "inker8",
             "repo": "xd-plugin",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "adobe-xd",
+              "css",
+              "design-tools",
+              "icons",
+              "measurements",
+              "xd-plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -106,12 +171,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep your Adobe XD files organized, batch rename layers and artboards.",
+            "homepage": "http://renameit.design/xd",
             "id": 152017689,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-22T23:29:49Z",
+            "open_issues": 8,
             "owner": "rodi01",
             "repo": "RenameIt-XD",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -122,12 +196,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insert professionally designed dummy logos of company and 190+ Country flags directly into XD",
+            "homepage": "https://uilogos.co",
             "id": 159986065,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-13T06:02:34Z",
+            "open_issues": 0,
             "owner": "realvjy",
             "repo": "uilogos-XD",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "country",
+              "flags",
+              "logos",
+              "plugin",
+              "uilogos"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -138,12 +225,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small plugin for Adobe XD to insert placeholder text",
+            "homepage": "https://zuriklaschka.de/products/lorem-ipsum-for-adobe-xd/",
             "id": 231264609,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T21:02:58Z",
+            "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "adobe-xd",
+              "adobe-xd-plugin",
+              "lorem-ipsum",
+              "lorem-ipsum-generator",
+              "placeholder-text",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -154,12 +253,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Document Chat is the privacy-first chatting solution for collaborative work on XD documents. Ideally used with XD's \"Live Coediting\" feature.",
+            "homepage": "https://xdplugins.pabloklaschka.de/plugins/document-chat",
             "id": 273177287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:00:33Z",
+            "open_issues": 23,
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "adobe-xd",
+              "chat",
+              "coediting",
+              "collaboration",
+              "live",
+              "plugin",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -170,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the open source plugin for ready made mobile UI components for Adobe XD.",
+            "homepage": null,
             "id": 189708148,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-06-05T16:08:11Z",
+            "open_issues": 0,
             "owner": "rohit-rmethwani",
             "repo": "ready-components",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -186,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build color palette, generate shades and tints directly in Adobe XD ",
+            "homepage": null,
             "id": 220824518,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-03-04T05:09:25Z",
+            "open_issues": 11,
             "owner": "WojciechBanas",
             "repo": "colordesigner-adobe-xd",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -202,12 +324,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url",
+            "homepage": null,
             "id": 167455975,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T07:08:47Z",
+            "open_issues": 10,
             "owner": "satriaajiputra",
             "repo": "tunda-image",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "adobe-xd",
+              "javascript",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -218,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adobe XD plugin that allows you to export at a single scale without all the other scales leading up to it",
+            "homepage": null,
             "id": 173752799,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-15T11:09:22Z",
+            "open_issues": 4,
             "owner": "nikoladev",
             "repo": "xd-export",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -234,12 +370,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export icons for your website from Adobe XD.",
+            "homepage": null,
             "id": 250938051,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-09T15:01:57Z",
+            "open_issues": 1,
             "owner": "ashryanbeats",
             "repo": "favicon-export-for-xd",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "adobe-xd",
+              "adobe-xd-plugin",
+              "favicon",
+              "icon",
+              "icon-generator",
+              "website-icon"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         }
@@ -256,12 +404,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate for plugins for Adobe XD CC including preconfigured linting, autocompletion and Webpack for bundling",
+            "homepage": null,
             "id": 164220629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-08T04:58:21Z",
+            "open_issues": 5,
             "owner": "pklaschka",
             "repo": "xd-plugin-boilerplate",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "boilerplate",
+              "boilerplate-template",
+              "eslint",
+              "extensibility",
+              "plugin",
+              "template",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -272,12 +435,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator for creating Adobe XD Plugin projects.",
+            "homepage": "https://www.npmjs.com/package/generator-xd-plugin",
             "id": 162668887,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T02:39:37Z",
+            "open_issues": 18,
             "owner": "AdobeXD",
             "repo": "generator-xd-plugin",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "adobe",
+              "adobe-xd",
+              "yeoman-generator"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -288,12 +460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate for plugins for Adobe XD CC including preconfigured linting, autocompletion and Webpack for bundling using React",
+            "homepage": null,
             "id": 185063490,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-05T19:51:50Z",
+            "open_issues": 0,
             "owner": "Ashwinvalento",
             "repo": "xd-plugin-boilerplate-react",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         }
@@ -310,12 +487,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ease email management for adobe xd prototypes",
+            "homepage": "https://chromewebstore.google.com/u/1/detail/dpbkhbpcahphenpdohcacldcfjejonoc",
             "id": 407350930,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-08T14:48:51Z",
+            "open_issues": 0,
             "owner": "rpradosilva",
             "repo": "adobexd-etools",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "adobe-xd",
+              "chrome-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         }
@@ -332,12 +517,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render React components to Adobe XD. Build design systems and libraries from your code.",
+            "homepage": null,
             "id": 201134954,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T06:48:55Z",
+            "open_issues": 23,
             "owner": "macintoshhelper",
             "repo": "react-xd",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "adobe-xd",
+              "adobe-xd-plugin",
+              "react",
+              "react-renderer",
+              "xd-plugin"
+            ]
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         }
@@ -346,15 +542,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:45:37.329Z",
+    "last_updated": "2026-08-29T04:52:40.865Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome community-created resources for extending Adobe XD",
+      "homepage": null,
       "id": 144183003,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-02-19T20:44:19Z",
+      "open_issues": 1,
       "owner": "AdobeXD",
       "repo": "xd-awesome",
-      "stars": 270
+      "stars": 270,
+      "topics": [
+        "adobe-xd",
+        "awesome",
+        "awesome-list",
+        "awesome-sauce",
+        "awesomeness",
+        "lists",
+        "resources",
+        "unicorns"
+      ]
     },
     "original_repository_sha": "170e9da1cedd8cb2c31d52ce2c3f1b23624f948a",
     "enhanced_repository": "enhansome/xd-enhansome",
