@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "dataliterate",
             "repo": "data-populator",
-            "stars": 1655,
+            "stars": 1654,
             "topics": [
               "adobe",
               "adobe-xd",
@@ -176,8 +176,8 @@
             "id": 152017689,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-06-22T23:29:49Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-05T22:17:41Z",
+            "open_issues": 9,
             "owner": "rodi01",
             "repo": "RenameIt-XD",
             "stars": 21,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:39:51.296Z",
+    "last_updated": "2026-09-06T06:50:02.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",

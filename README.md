@@ -9,13 +9,13 @@
 
 ## Awesome Open Source Plugins
 
-* **[Data Populator](https://github.com/preciousforever/data-populator) ⭐ 1,655 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-16** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
+* **[Data Populator](https://github.com/preciousforever/data-populator) ⭐ 1,654 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-16** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
 * **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin) ⭐ 945 | 🐛 43 | 🌐 JavaScript | 📅 2022-02-01** by Adobe - Generate assets from XD for use in an existing Flutter project.
 * **[Artboard Plus](https://github.com/rodi01/Artboard-Plus-XD) ⭐ 44 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-13** by [Rodrigo Soares](https://github.com/rodi01) - Artboard tools to speed up your Adobe XD workflow.
 * **[Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps) ⭐ 37 | 🐛 10 | 🌐 JavaScript | 📅 2021-02-02** by [Boopesh Mahendran](https://github.com/boopeshmahendran) - A map generator plugin for Adobe XD using google maps API.
 * **[Copy SVG Code](https://github.com/stursby/xd-copy-svg-code-plugin) ⭐ 34 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-07** by [Charlie Hield](https://github.com/stursby) - Plugin to generate SVG code from selection.
 * **[Inker8](https://github.com/inker8/xd-plugin) ⭐ 32 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-12** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
-* **[Rename It](https://github.com/rodi01/RenameIt-XD) ⭐ 21 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-22** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
+* **[Rename It](https://github.com/rodi01/RenameIt-XD) ⭐ 21 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-05** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
 * **[uiLogos](https://github.com/realvjy/uilogos-XD) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-13** by [vijay verma](https://github.com/realvjy) - Insert professionally designed dummy logos of companies and 190+ country flags.
 * **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin) ⭐ 9 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-04** by [Pablo Klaschka](https://github.com/pklaschka) - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
 * **[Document Chat](https://github.com/pklaschka/chat-xd-plugin) ⭐ 9 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-04** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
@@ -87,4 +87,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
