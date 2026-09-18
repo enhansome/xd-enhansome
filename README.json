@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "dataliterate",
             "repo": "data-populator",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "adobe",
               "adobe-xd",
@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T13:54:39Z",
+            "last_commit": "2026-09-18T00:24:35Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:08:44.844Z",
+    "last_updated": "2026-09-18T07:01:36.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
