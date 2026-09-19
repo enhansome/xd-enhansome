@@ -258,7 +258,7 @@
             "id": 273177287,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T05:53:08Z",
+            "last_commit": "2026-09-18T16:04:23Z",
             "open_issues": 23,
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:01:36.539Z",
+    "last_updated": "2026-09-19T07:01:00.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
