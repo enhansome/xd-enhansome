@@ -9,7 +9,7 @@
 
 ## Awesome Open Source Plugins
 
-* **[Data Populator](https://github.com/preciousforever/data-populator) ⭐ 1,655 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-16** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
+* **[Data Populator](https://github.com/preciousforever/data-populator) ⭐ 1,656 | 🐛 24 | 🌐 JavaScript | 📅 2024-02-16** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
 * **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin) ⭐ 945 | 🐛 43 | 🌐 JavaScript | 📅 2022-02-01** by Adobe - Generate assets from XD for use in an existing Flutter project.
 * **[Artboard Plus](https://github.com/rodi01/Artboard-Plus-XD) ⭐ 44 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-13** by [Rodrigo Soares](https://github.com/rodi01) - Artboard tools to speed up your Adobe XD workflow.
 * **[Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps) ⭐ 37 | 🐛 10 | 🌐 JavaScript | 📅 2021-02-02** by [Boopesh Mahendran](https://github.com/boopeshmahendran) - A map generator plugin for Adobe XD using google maps API.
@@ -87,4 +87,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
