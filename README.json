@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T00:24:35Z",
+            "last_commit": "2026-09-22T23:47:08Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -258,7 +258,7 @@
             "id": 273177287,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T16:04:23Z",
+            "last_commit": "2026-09-23T01:34:02Z",
             "open_issues": 23,
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
@@ -272,27 +272,6 @@
               "plugin",
               "privacy"
             ]
-          },
-          "first_seen": "2026-08-28T13:45:37.329Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ready Components",
-          "description": "by Rohit Methwani - A plugin for generating generally used components for Mobile UI with command clicks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the open source plugin for ready made mobile UI components for Adobe XD.",
-            "homepage": null,
-            "id": 189708148,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2020-06-05T16:08:11Z",
-            "open_issues": 0,
-            "owner": "rohit-rmethwani",
-            "repo": "ready-components",
-            "stars": 6,
-            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -339,6 +318,27 @@
               "javascript",
               "plugins"
             ]
+          },
+          "first_seen": "2026-08-28T13:45:37.329Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ready Components",
+          "description": "by Rohit Methwani - A plugin for generating generally used components for Mobile UI with command clicks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the open source plugin for ready made mobile UI components for Adobe XD.",
+            "homepage": null,
+            "id": 189708148,
+            "language": null,
+            "license": "GPL-3.0",
+            "last_commit": "2020-06-05T16:08:11Z",
+            "open_issues": 0,
+            "owner": "rohit-rmethwani",
+            "repo": "ready-components",
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:45:37.329Z"
         },
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:16:33.373Z",
+    "last_updated": "2026-09-23T07:19:41.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
