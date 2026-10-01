@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T03:47:46Z",
+            "last_commit": "2026-10-01T05:01:59Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -258,7 +258,7 @@
             "id": 273177287,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:48:08Z",
+            "last_commit": "2026-10-01T03:51:44Z",
             "open_issues": 23,
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:56:41.153Z",
+    "last_updated": "2026-10-01T08:17:28.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
