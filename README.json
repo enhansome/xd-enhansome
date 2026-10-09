@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:24:13.819Z",
+    "last_updated": "2026-10-09T08:27:54.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
@@ -554,7 +554,7 @@
       "open_issues": 1,
       "owner": "AdobeXD",
       "repo": "xd-awesome",
-      "stars": 269,
+      "stars": 270,
       "topics": [
         "adobe-xd",
         "awesome",
