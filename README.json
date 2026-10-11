@@ -51,7 +51,7 @@
             "open_issues": 43,
             "owner": "AdobeXD",
             "repo": "xd-to-flutter-plugin",
-            "stars": 945,
+            "stars": 944,
             "topics": [
               "adobe-xd",
               "dart",
@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T14:14:23Z",
+            "last_commit": "2026-10-10T12:35:51Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:05:31.251Z",
+    "last_updated": "2026-10-11T08:16:15.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
