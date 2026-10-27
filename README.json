@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T13:39:52Z",
+            "last_commit": "2026-10-26T16:26:41Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -258,7 +258,7 @@
             "id": 273177287,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:19:10Z",
+            "last_commit": "2026-10-27T01:14:50Z",
             "open_issues": 23,
             "owner": "pklaschka",
             "repo": "chat-xd-plugin",
@@ -486,7 +486,7 @@
           "description": "by Rafael Prado - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Ease email management for adobe xd prototypes",
             "homepage": "https://chromewebstore.google.com/u/1/detail/dpbkhbpcahphenpdohcacldcfjejonoc",
             "id": 407350930,
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:23:40.252Z",
+    "last_updated": "2026-10-27T07:16:26.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",

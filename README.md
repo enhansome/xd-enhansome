@@ -17,8 +17,8 @@
 * **[Inker8](https://github.com/inker8/xd-plugin) ⭐ 32 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-12** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
 * **[Rename It](https://github.com/rodi01/RenameIt-XD) ⭐ 21 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-05** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
 * **[uiLogos](https://github.com/realvjy/uilogos-XD) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-13** by [vijay verma](https://github.com/realvjy) - Insert professionally designed dummy logos of companies and 190+ country flags.
-* **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin) ⭐ 9 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-23** by [Pablo Klaschka](https://github.com/pklaschka) - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
-* **[Document Chat](https://github.com/pklaschka/chat-xd-plugin) ⭐ 9 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-22** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
+* **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin) ⭐ 9 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-26** by [Pablo Klaschka](https://github.com/pklaschka) - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
+* **[Document Chat](https://github.com/pklaschka/chat-xd-plugin) ⭐ 9 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-27** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
 * **[Color Desginer](https://github.com/cyanpix/colordesigner-adobe-xd) ⭐ 6 | 🐛 11 | 🌐 Vue | 📅 2023-03-04** by [Wojciech Banaś](https://github.com/cyanpix) - Build a color palette, generate shades and tints directly in Adobe XD.
 * **[Tunda Image](https://github.com/satriaajiputra/tunda-image) ⭐ 5 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-07** by [Satria Aji Putra](https://github.com/satriaajiputra) - Quick fill image to a shape from direct image url
 * **[Ready Components](https://github.com/rohit-rmethwani/ready-components) ⭐ 5 | 🐛 0 | 📅 2020-06-05** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
@@ -47,7 +47,7 @@
 
 ## Miscellaneous/Others
 
-* **[Adobe Xd E-tools](https://chrome.google.com/webstore/detail/adobe-xd-e-tools/dpbkhbpcahphenpdohcacldcfjejonoc/)** by [Rafael Prado](https://github.com/rpradosilva/adobexd-etools) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-08 - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.
+* **[Adobe Xd E-tools](https://chrome.google.com/webstore/detail/adobe-xd-e-tools/dpbkhbpcahphenpdohcacldcfjejonoc/)** by [Rafael Prado](https://github.com/rpradosilva/adobexd-etools) ⚠️ Archived - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.
 
 ## Samples
 
@@ -87,4 +87,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
