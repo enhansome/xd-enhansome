@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T01:38:45Z",
+            "last_commit": "2026-10-31T13:56:32Z",
             "open_issues": 14,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:58:30.661Z",
+    "last_updated": "2026-11-01T08:40:42.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
