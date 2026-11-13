@@ -74,7 +74,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-01-13T22:48:04Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "rodi01",
             "repo": "Artboard-Plus-XD",
             "stars": 44,
@@ -230,7 +230,7 @@
             "id": 231264609,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T19:11:50Z",
+            "last_commit": "2026-11-12T22:30:21Z",
             "open_issues": 13,
             "owner": "pklaschka",
             "repo": "lorem-ipsum-plugin",
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:15:48.648Z",
+    "last_updated": "2026-11-13T09:03:30.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome community-created resources for extending Adobe XD",
